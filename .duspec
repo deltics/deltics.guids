@@ -1,0 +1,24 @@
+{
+  "id":"deltics.guids",
+  "version":"",
+  "summary":"A tiny package that provides routines for working with Guids.",
+  "tags":[
+    "deltics",
+    "guid",
+    "guids"
+  ],
+  "copyright":"\u00A92020 Jolyon Direnko-Smith",
+  "language":"en",
+  "content":"source",
+  "dependencies":[
+    "deltics.inc:1.0.4",
+    "deltics.exceptions:1.0.0"
+  ],
+  "source":{
+      "files":[
+        "src\\deltics.guids.inc",
+        "src\\Deltics.Guids.pas",
+        "src\\Deltics.Guids.GuidList.pas"
+      ]
+    }
+}
